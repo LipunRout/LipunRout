@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lipun Rout</h1>
+<h1 align="center">Hey 👋, I'm Lipun Rout</h1>
 <h3 align="center">A MERN-STACK developer, Tester& Designer based in Somewhere!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipunrout&label=Profile%20views&color=0e75b6&style=flat" alt="lipunrout" /> </p>
