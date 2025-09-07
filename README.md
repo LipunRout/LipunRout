@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Lipun Rout</h1>
+<h1 align="center"> Hey, I'm Lipun</h1>
 
 <h2 align="center">MERN Stack Developer • Tester • Designer • Java DSA Explorer</h2>
 
