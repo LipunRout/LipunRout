@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Lipun</h1>
 
-<h2 align="center">MERN Stack Developer • Tester • Designer • Java DSA Explorer</h2>
+<h2 align="center">MERN • Testing • Designer • Java • DSA</h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=darkmagenta" />
