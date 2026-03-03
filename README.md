@@ -8,7 +8,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=darkmagenta&right_color=black&left_text=Profile%20Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/LipunRout?style=flat&color=darkmagenta&labelColor=black&logo=github)](https://github.com/LipunRout)
 
 </div>
 
