@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:4B0082&height=200&section=header&text=Lipun%20Rout&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20%20%20%E2%80%A2%20Designer&descAlignY=58&descSize=17&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:4B0082&height=200&section=header&text=Lipun%20Rout&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20Designer&descAlignY=58&descSize=17&descColor=A78BFA" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Hey!+I'm+Lipun+Rout+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;QA+%26+Selenium+Automation+Engineer+%F0%9F%A7%AA;Java+DSA+Problem+Solver+%F0%9F%A7%A0;Building+Smart+Learning+RoadMap+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=Hey!+I%27m+Lipun+Rout+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;QA+%26+Selenium+Automation+Engineer+%F0%9F%A7%AA;Java+%2B+DSA+Problem+Solver+%F0%9F%A7%A0;Building+Smart+Learning+RoadMap+%F0%9F%97%BA%EF%B8%8F;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=4B0082&right_color=1A1A6E&left_text=👁️%20Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=4B0082&right_color=1A1A6E&left_text=Profile+Views" />
 
 <br/><br/>
 
@@ -91,6 +91,7 @@ email      : lipunrout001@gmail.com
 
 #### ☁️ DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -106,11 +107,11 @@ email      : lipunrout001@gmail.com
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false" height="165"/>
-<img src="https://streak-stats.demolab.com?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&hide_border=false" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=donut&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&langs_count=8" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false" height="200"/>
 
 </div>
 
@@ -119,7 +120,7 @@ email      : lipunrout001@gmail.com
 ### 🌐 3D Contribution Graph
 
 <div align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api/top?username=LipunRout&theme=tokyo_night" width="88%"/>
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=LipunRout&theme=tokyo_night" width="88%"/>
 </div>
 
 ---
