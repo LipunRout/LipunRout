@@ -1,118 +1,145 @@
 <div align="center">
 
-<br/>
-
-# Lipun Rout
-
-**Full-Stack Developer &nbsp;·&nbsp; QA Engineer &nbsp;·&nbsp; Designer**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=220&section=header&text=Lipun%20Rout&fontSize=70&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20QA%20Engineer%20%C2%B7%20Designer&descAlignY=58&descSize=16&descColor=BDBDBD" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lipun-rout-a564b6285/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/lipunrout07/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/LipunRout)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:lipunrout001@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i.lipun_/?hl=en)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/lipunrout65)
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=16&pause=1800&color=F5F5F5&center=true&vCenter=true&width=560&lines=Building+Smart+Learning+RoadMap+%F0%9F%97%BA%EF%B8%8F;MERN+%C2%B7+Java+%C2%B7+Selenium+%C2%B7+DSA;Open+to+collaborate+on+impactful+projects+%F0%9F%A4%9D;Turning+complex+paths+into+clean+roadmaps+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&pause=2000&color=48CAE4&center=true&vCenter=true&width=500&lines=Building+Smart+Learning+RoadMap+%F0%9F%97%BA%EF%B8%8F;MERN+%C2%B7+Java+%C2%B7+Selenium+%C2%B7+DSA;Turning+complex+paths+into+clean+roadmaps." alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/lipun-rout-a564b6285/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=F5F5F5)](https://leetcode.com/u/lipunrout07/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F5F5F5)](https://github.com/LipunRout)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F5F5F5)](mailto:lipunrout001@gmail.com)
+[![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=F5F5F5)](https://x.com/lipunrout65)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=F5F5F5)](https://www.instagram.com/i.lipun_/?hl=en)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=0e1f2e&right_color=0e1f2e&left_text=visitors&labelColor=0e1f2e&color=48CAE4" />
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=1a1a1a&right_color=333333&left_text=visitors&labelColor=1a1a1a&color=F5F5F5" />
 
 </div>
 
-<br/>
-
 ---
 
-## About
+## `{ about }`
 
 ```yaml
 name     : Lipun Rout
 role     : Full-Stack Developer · QA Engineer · Designer
 stack    : MERN · Java · Python · Selenium
-building : Smart_Learning_RoadMap — career guidance platform
-learning : DSA in Java · Selenium Automation
+building : Smart_Learning_RoadMap — career guidance for students
+learning : DSA in Java · Selenium Automation · MERN
+passion  : Turning complex career paths into clean roadmaps 🎓
 email    : lipunrout001@gmail.com
 ```
 
 ---
 
-## Tech
+## `{ skills }`
 
 **Languages**
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0e1f2e?style=flat-square&logo=javascript&logoColor=48CAE4)
-![Java](https://img.shields.io/badge/Java-0e1f2e?style=flat-square&logo=openjdk&logoColor=48CAE4)
-![Python](https://img.shields.io/badge/Python-0e1f2e?style=flat-square&logo=python&logoColor=48CAE4)
-![C](https://img.shields.io/badge/C-0e1f2e?style=flat-square&logo=c&logoColor=48CAE4)
-![C++](https://img.shields.io/badge/C++-0e1f2e?style=flat-square&logo=cplusplus&logoColor=48CAE4)
-![PHP](https://img.shields.io/badge/PHP-0e1f2e?style=flat-square&logo=php&logoColor=48CAE4)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F5F5F5)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=F5F5F5)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=F5F5F5)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=F5F5F5)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=F5F5F5)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=F5F5F5)
 
 **Frontend**
-&nbsp;
-![React](https://img.shields.io/badge/React-0e1f2e?style=flat-square&logo=react&logoColor=48CAE4)
-![Next.js](https://img.shields.io/badge/Next.js-0e1f2e?style=flat-square&logo=next.js&logoColor=48CAE4)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0e1f2e?style=flat-square&logo=tailwindcss&logoColor=48CAE4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0e1f2e?style=flat-square&logo=bootstrap&logoColor=48CAE4)
-![HTML5](https://img.shields.io/badge/HTML5-0e1f2e?style=flat-square&logo=html5&logoColor=48CAE4)
-![CSS3](https://img.shields.io/badge/CSS3-0e1f2e?style=flat-square&logo=css3&logoColor=48CAE4)
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=F5F5F5)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=F5F5F5)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=F5F5F5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=F5F5F5)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=F5F5F5)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=F5F5F5)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F5F5F5)
 
 **Backend & Database**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0e1f2e?style=flat-square&logo=node.js&logoColor=48CAE4)
-![Express](https://img.shields.io/badge/Express-0e1f2e?style=flat-square&logo=express&logoColor=48CAE4)
-![MongoDB](https://img.shields.io/badge/MongoDB-0e1f2e?style=flat-square&logo=mongodb&logoColor=48CAE4)
-![MySQL](https://img.shields.io/badge/MySQL-0e1f2e?style=flat-square&logo=mysql&logoColor=48CAE4)
-![Firebase](https://img.shields.io/badge/Firebase-0e1f2e?style=flat-square&logo=firebase&logoColor=48CAE4)
-![Supabase](https://img.shields.io/badge/Supabase-0e1f2e?style=flat-square&logo=supabase&logoColor=48CAE4)
 
-**Testing & Tools**
-&nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-0e1f2e?style=flat-square&logo=selenium&logoColor=48CAE4)
-![Figma](https://img.shields.io/badge/Figma-0e1f2e?style=flat-square&logo=figma&logoColor=48CAE4)
-![AWS](https://img.shields.io/badge/AWS-0e1f2e?style=flat-square&logo=amazonaws&logoColor=48CAE4)
-![Docker](https://img.shields.io/badge/Docker-0e1f2e?style=flat-square&logo=docker&logoColor=48CAE4)
-![Git](https://img.shields.io/badge/Git-0e1f2e?style=flat-square&logo=git&logoColor=48CAE4)
-![GitHub Actions](https://img.shields.io/badge/Actions-0e1f2e?style=flat-square&logo=githubactions&logoColor=48CAE4)
-![Vercel](https://img.shields.io/badge/Vercel-0e1f2e?style=flat-square&logo=vercel&logoColor=48CAE4)
-![Render](https://img.shields.io/badge/Render-0e1f2e?style=flat-square&logo=render&logoColor=48CAE4)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=F5F5F5)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=F5F5F5)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=F5F5F5)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=F5F5F5)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=F5F5F5)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=F5F5F5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=F5F5F5)
+
+**DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=F5F5F5)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=F5F5F5)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F5F5F5)
+![GitHub Actions](https://img.shields.io/badge/Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=F5F5F5)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=F5F5F5)
+![Render](https://img.shields.io/badge/Render-1a1a1a?style=flat-square&logo=render&logoColor=F5F5F5)
+![Selenium](https://img.shields.io/badge/Selenium-1a1a1a?style=flat-square&logo=selenium&logoColor=F5F5F5)
+
+**Skill Levels**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-████████░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![React](https://img.shields.io/badge/React-███████░░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![Java](https://img.shields.io/badge/Java-███████░░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![Python](https://img.shields.io/badge/Python-██████░░░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-███████░░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![Selenium](https://img.shields.io/badge/Selenium-██████░░░░-F5F5F5?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🗺️ **[Smart Learning RoadMap](#)** | Career guidance platform for IT, Non-IT, Medical, Govt & more | React · Node.js · MongoDB · Groq AI |
-| 🧭 **[RoutePilot](https://route-pilot.vercel.app)** | AI-powered route planning with PDF export | React · Express · Supabase · Groq AI |
-
----
-
-## GitHub Stats
+## `{ projects }`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=transparent&hide_border=true&title_color=48CAE4&icon_color=48CAE4&text_color=cdd6f4&ring_color=48CAE4" height="160" />
-<img src="https://streak-stats.demolab.com?user=LipunRout&theme=transparent&hide_border=true&ring=48CAE4&fire=48CAE4&currStreakLabel=48CAE4&sideLabels=48CAE4&dates=cdd6f4&stroke=48CAE4" height="160" />
+<a href="https://route-pilot.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LipunRout&repo=RoutePilot&theme=transparent&hide_border=false&border_color=333333&title_color=F5F5F5&text_color=BDBDBD&icon_color=F5F5F5" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=transparent&hide_border=true&title_color=48CAE4&text_color=cdd6f4&langs_count=8" height="145" />
+</div>
+
+<br/>
+
+| &nbsp; | Project | Description | Stack | Link |
+|---|---|---|---|---|
+| 🗺️ | **Smart Learning RoadMap** | Career guidance for IT, Non-IT, Medical, Govt & more | React · Node.js · MongoDB · Groq AI | Coming Soon |
+| 🧭 | **RoutePilot** | AI-powered route planning with PDF export | React · Express · Supabase · Groq AI | [→ Live](https://route-pilot.vercel.app) |
+
+---
+
+## `{ github stats }`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=transparent&hide_border=false&border_color=333333&title_color=F5F5F5&icon_color=F5F5F5&text_color=BDBDBD&include_all_commits=true&count_private=true&border_radius=8" height="160" />
+<img src="https://streak-stats.demolab.com?user=LipunRout&theme=transparent&hide_border=false&border=333333&ring=F5F5F5&fire=BDBDBD&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=BDBDBD&border_radius=8" height="160" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=transparent&hide_border=false&border_color=333333&title_color=F5F5F5&text_color=BDBDBD&langs_count=8&border_radius=8" height="145" />
 
 </div>
 
 ---
 
-## Trophies
+## `{ 3d contributions }`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LipunRout&theme=transparent&no-frame=true&margin-w=12&column=6&title_color=48CAE4" width="90%" />
+<img src="https://github-profile-3d-contrib.vercel.app/api/top?username=LipunRout&theme=city_lights" width="85%" />
 </div>
 
 ---
 
-## LeetCode
+## `{ trophies }`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LipunRout&theme=onestar&no-frame=true&margin-w=10&column=6" width="90%" />
+</div>
+
+---
+
+## `{ leetcode }`
 
 <div align="center">
 <a href="https://leetcode.com/u/lipunrout07/">
@@ -122,7 +149,15 @@ email    : lipunrout001@gmail.com
 
 ---
 
-## Now Playing
+## `{ quote }`
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="65%" />
+</div>
+
+---
+
+## `{ now playing }`
 
 <div align="center">
 <a href="https://open.spotify.com/user/31bmnit76tzis53b3ra5xmhj4ilm">
@@ -133,7 +168,9 @@ email    : lipunrout001@gmail.com
 ---
 
 <div align="center">
-<sub>lipunrout001@gmail.com &nbsp;·&nbsp; <a href="https://github.com/LipunRout">github.com/LipunRout</a></sub>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer&animation=fadeIn" width="100%" />
+
+<sub>crafted with intention &nbsp;·&nbsp; <a href="https://github.com/LipunRout">github.com/LipunRout</a> &nbsp;·&nbsp; lipunrout001@gmail.com</sub>
+
+</div>
