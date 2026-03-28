@@ -156,20 +156,22 @@
 ### `> wakatime --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LipunRout&theme=midnight-purple&border_radius=12&border_color=0077B6&title_color=00D4FF&layout=compact" width="60%" />
+  <a href="https://wakatime.com/@LipunRout" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LipunRout&theme=midnight-purple&border_radius=12&border_color=0077B6&title_color=00D4FF&layout=compact" width="60%" />
+  </a>
 </div>
 
-> ⚙️ *Connect your [WakaTime](https://wakatime.com) account to display live coding stats*
+> 🔗 *Live stats powered by [WakaTime](https://wakatime.com) — tracking every line of code*
 
 ---
 
 ### `> leetcode --stats`
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/LipunRout?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0077B6" width="55%" />
+  <a href="https://leetcode.com/u/lipunrout07/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lipunrout07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0077B6" width="55%" />
+  </a>
 </div>
-
-> ⚙️ *Replace `LipunRout` above with your actual LeetCode username to activate*
 
 ---
 
