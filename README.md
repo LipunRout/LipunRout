@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:4B0082&height=200&section=header&text=Lipun%20Rout&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20Designer&descAlignY=58&descSize=17&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:4B0082&height=200&section=header&text=Lipun%20Rout&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20%20%20%E2%80%A2%20Designer&descAlignY=58&descSize=17&descColor=A78BFA" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Hey!+I'm+Lipun+Rout+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;QA+%26+Selenium+Automation+Engineer+%F0%9F%A7%AA;Java+DSA+Problem+Solver+%F0%9F%A7%A0;Building+Smart+Learning+RoadMap+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
 
