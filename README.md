@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZwdGR2M2RibWplcmJ0ZnkweWEyOHprdjdxeGF5cTJ2cWtmd2ljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" width="300" />
 
 ### 🧑‍💻 About Me
 
