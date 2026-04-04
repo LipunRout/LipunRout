@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=LipunRout&color=4B0082&style=flat-square&label=Profile+Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=4B0082&right_color=1A1A6E&left_text=Profile+Views" />
 
 <br/><br/>
 
