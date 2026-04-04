@@ -60,6 +60,7 @@ email      : lipunrout001@gmail.com
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -106,21 +107,14 @@ email      : lipunrout001@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false&cache_seconds=1800" height="165"/>
+&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&hide_border=false" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false&cache_seconds=1800" height="200"/>
 
-</div>
-
----
-
-### 🌐 3D Contribution Graph
-
-<div align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=LipunRout&theme=tokyo_night" width="88%"/>
 </div>
 
 ---
@@ -128,7 +122,7 @@ email      : lipunrout001@gmail.com
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LipunRout&theme=tokyonight&no-frame=false&margin-w=10&column=6&title_color=A78BFA" width="92%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LipunRout&theme=tokyonight&no-frame=false&margin-w=10&column=6" width="92%"/>
 </div>
 
 ---
