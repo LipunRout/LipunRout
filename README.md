@@ -43,7 +43,7 @@ email      : lipunrout001@gmail.com
 
 <div align="center">
 
-[![RoutePilot](https://github-readme-stats.vercel.app/api/pin/?username=LipunRout&repo=RoutePilot&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8)](https://github.com/LipunRout/RoutePilot)
+[![RoutePilot](https://github-readme-stats-nnenhhd8n-lipunrouts-projects.vercel.app/api/pin/?username=LipunRout&repo=RoutePilot&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8)](https://github.com/LipunRout/RoutePilot)
 
 </div>
 
@@ -110,17 +110,17 @@ email      : lipunrout001@gmail.com
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false&card_width=420" />
+      <img src="https://github-readme-stats-nnenhhd8n-lipunrouts-projects.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=LipunRout&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&card_width=420" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=LipunRout&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false&card_width=500" />
+<img src="https://github-readme-stats-nnenhhd8n-lipunrouts-projects.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false" />
 
 </div>
 
