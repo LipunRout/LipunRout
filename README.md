@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LipunRout.LipunRout&left_color=4B0082&right_color=1A1A6E&left_text=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=LipunRout&color=4B0082&style=flat-square&label=Profile+Views" />
 
 <br/><br/>
 
@@ -107,23 +107,70 @@ email      : lipunrout001@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&hide_border=false&cache_seconds=1800" height="165"/>
-&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LipunRout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=A78BFA&title_color=A78BFA&icon_color=38BDF8&text_color=FFFFFF&bg_color=0D1117&hide_border=false" height="170"/>
+&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=LipunRout&theme=tokyonight&border_radius=10&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&background=0D1117" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&langs_count=8&hide_border=false&cache_seconds=1800" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipunRout&layout=compact&theme=tokyonight&border_radius=10&border_color=A78BFA&title_color=A78BFA&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide_border=false" height="190"/>
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 🌐 3D Contribution Graph
+
+> ⚙️ This graph is **self-hosted via GitHub Actions** — it will appear once you run the workflow below.
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LipunRout&theme=tokyonight&no-frame=false&margin-w=10&column=6" width="92%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LipunRout/LipunRout/output-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LipunRout/LipunRout/output-3d-contrib/profile-season-animate.svg"/>
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/LipunRout/LipunRout/output-3d-contrib/profile-night-rainbow.svg" width="88%"/>
+</picture>
 </div>
+
+<details>
+<summary>⚙️ <b>Enable 3D Graph</b> — click to expand setup</summary>
+
+**Step 1:** Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**.
+
+**Step 2:** Create `.github/workflows/3d-contrib.yml` in your `LipunRout/LipunRout` repo:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Deploy SVGs to output-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** to trigger it manually the first time.
+
+Once it runs, the SVG will be live at:
+`https://raw.githubusercontent.com/LipunRout/LipunRout/output-3d-contrib/profile-night-rainbow.svg`
+
+</details>
 
 ---
 
